@@ -1,5 +1,5 @@
 # Change this to your local path
-setwd("/Users/clement/Documents/IRIS viz")
+setwd("/Users/clement/Documents/irisIncome")
 
 library(sf)
 library(mapview)
